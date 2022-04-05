@@ -1,0 +1,31 @@
+.review{
+    margin-top: 150px;
+}
+.review__sector{
+    display: flex;
+    justify-content: space-between;
+}
+.review__red{
+    color: #F7654A;
+}
+.review__img{
+    margin-bottom: 20px;
+}
+.review__box{
+    width: 350px;
+    margin-top: 64px;
+}
+.review__text{
+    background: #f7f7f7;
+    box-sizing: border-box;
+    padding: 38px 30px;
+    font-family: "Open Sans";
+  
+
+}
+.review__description{
+    color: #999;
+}
+.review__author{
+    text-align: center;
+}

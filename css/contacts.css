@@ -1,0 +1,24 @@
+.contacts__sector{
+    display: flex;
+    justify-content: space-between;
+
+}
+.contacts__name{
+    font-family: "Oswald", sans-serif;
+    font-size: 24px;
+    color: #999;
+    margin: 36px 0 25px 0;
+}
+.contacts__info{
+    font-family: "Oswald", sans-serif;
+    font-size: 22px;
+}
+.contacts__box{
+    font-family: "Oswald", sans-serif;
+    width: 255px;
+    text-align: center;
+    margin-top: 60px;
+}
+.contacts{
+    margin-top: 120px;
+}

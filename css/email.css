@@ -1,0 +1,37 @@
+.email{
+    background: #F7654A;
+    font-family: "Oswald";
+    margin-top: 150px;
+    padding: 30px 0 45px 0;
+}
+.email__left{
+    font-weight: bold;
+    color: white;
+}
+
+.email__title{
+    font-size: 48px;
+}
+
+.email__subtitle{
+    font-size: 24px;
+}
+.email__content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.email__btn{
+    background: #fff;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    padding: 14px 30px;
+    cursor: pointer;
+
+}
+.email__btn img{
+    margin-right: 15px;
+}

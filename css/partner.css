@@ -1,0 +1,20 @@
+.partners__sector{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.partners__title{
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.partners{
+    background: #404149;
+    padding: 100px 0;
+    margin-top: 150px;
+}
+.partners__img{
+    margin-top: 60px;
+
+}

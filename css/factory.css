@@ -1,0 +1,30 @@
+.factory__box{
+    background: #F7F7F7;
+    width: 350px;
+    text-align: center;
+    padding: 60px 90px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+.factory__title{
+    margin-bottom: 36px;
+    font-family: "Oswald";
+    font-weight: 500;
+    font-size: 36px;
+    text-align: center;
+}
+.factory{
+    margin-top: 150px;
+}
+.factory__box{
+    background: #F7F7F7;
+}
+
+.factory__sector{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+.
